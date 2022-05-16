@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/latkz',
+      link: 'https://t.me/s/latkz',
     },
     {
       name: 'Blog',
